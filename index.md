@@ -5,3 +5,5 @@
 #### Header 4 Test
 
 Added headers to test text formatting.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
