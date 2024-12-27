@@ -12,3 +12,7 @@ Added headers to test text formatting.
 variable_one = 'variable_value'
 print(f"variable_one = {variable_one}")
 ```
+
+- [ ] task list item 1
+- [ ] task list item 2
+- [ ] task list item 3
